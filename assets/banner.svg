@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
-  <title id="title">Raúl Figuera — Del código al despliegue</title>
-  <desc id="description">Banner oscuro con acentos verde menta. Software, redes e infraestructura.</desc>
+  <title id="title">Raúl Figuera — From code to deployment</title>
+  <desc id="description">Dark banner with mint accents. Software, networks and infrastructure.</desc>
   <rect width="1200" height="300" rx="12" fill="#0b1014"/>
   <rect x="1" y="1" width="1198" height="298" rx="11" fill="none" stroke="#2b4049"/>
   <g fill="none" stroke="#22363d" opacity=".5">
@@ -9,9 +9,9 @@
   </g>
   <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
     <text x="54" y="58" fill="#8ce7c3" font-size="15" letter-spacing="2">RAUCODE / RAÚL FIGUERA</text>
-    <text x="54" y="134" fill="#edf5f4" font-size="43" font-weight="700" letter-spacing="-2">Del código</text>
-    <text x="54" y="188" fill="#8ce7c3" font-size="43" font-weight="700" letter-spacing="-2">al despliegue.</text>
-    <text x="55" y="246" fill="#a0b6bc" font-size="16">Software · Redes · Infraestructura</text>
+    <text x="54" y="134" fill="#edf5f4" font-size="43" font-weight="700" letter-spacing="-2">From code</text>
+    <text x="54" y="188" fill="#8ce7c3" font-size="43" font-weight="700" letter-spacing="-2">to deployment.</text>
+    <text x="55" y="246" fill="#a0b6bc" font-size="16">Software · Networks · Infrastructure</text>
   </g>
   <g stroke="#8ce7c3" stroke-width="2" fill="#111b22">
     <rect x="839" y="92" width="106" height="74" rx="5"/>
